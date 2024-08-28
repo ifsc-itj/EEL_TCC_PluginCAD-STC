@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|c:\\users\\gusta\\documents\\github\\plugin-autocad-exfil\\exceltoautocad\\exceltoautocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|solutionrelative:exceltoautocad\\exceltoautocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\exceltoautocad\\entities\\excelaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|solutionrelative:exceltoautocad\\entities\\excelaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|c:\\users\\gusta\\documents\\github\\plugin-autocad-exfil\\exceltoautocad\\forms\\insertform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|solutionrelative:exceltoautocad\\forms\\insertform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\exceltoautocad\\forms\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|solutionrelative:exceltoautocad\\forms\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\exceltoautocad\\forms\\insertform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|solutionrelative:exceltoautocad\\forms\\insertform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\exceltoautocad\\forms\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|solutionrelative:exceltoautocad\\forms\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\exceltoautocad\\entities\\tableloads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|solutionrelative:exceltoautocad\\entities\\tableloads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\exceltoautocad\\panel\\panelmount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43359D46-25ED-44FC-B516-C4007BA506BD}|ExcelToAutoCAD\\ExcelToAutoCAD.csproj|solutionrelative:exceltoautocad\\panel\\panelmount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertForm.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Forms\\InsertForm.cs",
+              "RelativeDocumentMoniker": "ExcelToAutoCAD\\Forms\\InsertForm.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Forms\\InsertForm.cs",
+              "RelativeToolTip": "ExcelToAutoCAD\\Forms\\InsertForm.cs",
+              "ViewState": "AQIAAMcBAAAAAAAAAAAkwOoBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T13:41:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgressForm.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Forms\\ProgressForm.cs",
+              "RelativeDocumentMoniker": "ExcelToAutoCAD\\Forms\\ProgressForm.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Forms\\ProgressForm.cs",
+              "RelativeToolTip": "ExcelToAutoCAD\\Forms\\ProgressForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:01:06.773Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 341,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgressForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Forms\\ProgressForm.cs",
+              "RelativeDocumentMoniker": "ExcelToAutoCAD\\Forms\\ProgressForm.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Forms\\ProgressForm.cs [Design]",
+              "RelativeToolTip": "ExcelToAutoCAD\\Forms\\ProgressForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:58:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PanelMount.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Panel\\PanelMount.cs",
+              "RelativeDocumentMoniker": "ExcelToAutoCAD\\Panel\\PanelMount.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Panel\\PanelMount.cs",
+              "RelativeToolTip": "ExcelToAutoCAD\\Panel\\PanelMount.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAADwv/wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:33:42.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TableLoads.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Entities\\TableLoads.cs",
+              "RelativeDocumentMoniker": "ExcelToAutoCAD\\Entities\\TableLoads.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Entities\\TableLoads.cs",
+              "RelativeToolTip": "ExcelToAutoCAD\\Entities\\TableLoads.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T17:45:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelAccess.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Entities\\ExcelAccess.cs",
+              "RelativeDocumentMoniker": "ExcelToAutoCAD\\Entities\\ExcelAccess.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Entities\\ExcelAccess.cs",
+              "RelativeToolTip": "ExcelToAutoCAD\\Entities\\ExcelAccess.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAIwMoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:36:38.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelToAutoCAD.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\ExcelToAutoCAD.cs",
+              "RelativeDocumentMoniker": "ExcelToAutoCAD\\ExcelToAutoCAD.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\ExcelToAutoCAD.cs",
+              "RelativeToolTip": "ExcelToAutoCAD\\ExcelToAutoCAD.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAuwHkBAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:10:47.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Forms\\InsertForm.cs",
+              "RelativeDocumentMoniker": "ExcelToAutoCAD\\Forms\\InsertForm.cs",
+              "ToolTip": "C:\\Users\\gusta\\Documents\\GitHub\\Plugin-AutoCAD-ExFil\\ExcelToAutoCAD\\Forms\\InsertForm.cs [Design]",
+              "RelativeToolTip": "ExcelToAutoCAD\\Forms\\InsertForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T13:41:48.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

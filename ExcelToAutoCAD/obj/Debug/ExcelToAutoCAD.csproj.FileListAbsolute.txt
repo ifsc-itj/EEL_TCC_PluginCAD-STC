@@ -1,0 +1,134 @@
+F:\ws-Visual-Code\ExcelToAutoCAD\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.dll
+F:\ws-Visual-Code\ExcelToAutoCAD\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.pdb
+F:\ws-Visual-Code\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.AssemblyReference.cache
+F:\ws-Visual-Code\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.ResolveComReference.cache
+F:\ws-Visual-Code\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.CoreCompileInputs.cache
+F:\ws-Visual-Code\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.dll
+F:\ws-Visual-Code\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.ResolveComReference.cache
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\ExcelToAutoCAD\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\ExcelToAutoCAD\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.ResolveComReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.ResolveComReference.cache
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCAD-ExFil\ExcelToAutoCAD\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.ResolveComReference.cache
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.ResolveComReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\accoremgd.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\acdbmgd.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\acmgd.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AdUiPalettes.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcDx.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcDxPublishUi.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AdWindows.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcMr.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcWindows.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AdUIMgd.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcTcMgd.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcCui.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcMNUParser.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\acdbmgd.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.CopyComplete
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.Config.resources
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.GenerateResource.cache
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\accoremgd.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\acdbmgd.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\acmgd.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\AdUiPalettes.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\AcDx.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\AcDxPublishUi.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\AdWindows.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\AcMr.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\AcWindows.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\AdUIMgd.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\AcTcMgd.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\AcCui.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\AcMNUParser.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\en-US\acdbmgd.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.AssemblyReference.cache
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.ResolveComReference.cache
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.Config.resources
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.GenerateResource.cache
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.CopyComplete
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.pdb
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.InsertForm.resources
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.InsertForm.resources
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.InsertForm.resources
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.Properties.Resources.resources
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.Properties.Resources.resources
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.ResourceImage.resources
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToA.3D8B5CD4.Up2Date
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\accoremgd.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\acdbmgd.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\acmgd.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcWindows.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AdWindows.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AdUiPalettes.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcDx.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcDxPublishUi.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcCui.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcCustomize.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AppHomeInterop.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcMr.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AdUIMgd.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcTcMgd.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\AcMNUParser.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\Autodesk.AutoCAD.Interop.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\Autodesk.DesktopConnector.API.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\Serilog.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\acdbmgd.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AcCustomize.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AppHomeInterop.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\ExcelToAutoCAD\obj\Debug\ExcelToAutoCAD.Forms.ProgressForm.resources
